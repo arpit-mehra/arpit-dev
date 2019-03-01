@@ -1,0 +1,23 @@
+@import '~antd/dist/antd.css';
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Raleway');
+
+.App {
+    text-align: center;
+}
+
+.logo {
+    width: 120px;
+    height: 41px;
+    background: rgba(255,255,255,.2);
+    margin: 16px 24px 16px 0;
+    float: left;
+}
+
+.headerName {
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+}
+
+.content {
+    font-family: 'Raleway';
+}
